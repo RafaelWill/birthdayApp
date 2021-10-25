@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: birthday-app
+
+server:
+  port: 8085
+  servlet:
+    context-path: /
